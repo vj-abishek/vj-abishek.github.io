@@ -6,19 +6,19 @@
 - title: Fawn-components
   event: Lit-Elements, Typescript
   date: Dec 2020
-  page-name: fawn-components
+#   page-name: fawn-components
 
 - title: Gif Convertor
   event: Gatsbyjs, FFMPEG
   date: Dec 2020 
-  page-name: gif-convertor
+#   page-name: gif-convertor
 
 - title: FLMG
   event: Gatbyjs, Themeui, Typescript
   date: Fall 2020
-  page-name: FLMG
+#   page-name: FLMG
 
 - title: Invite on label
   event: MLH Local Hack Day
   date: Jan 2021
-  page-name: vj-abigo/invite-on-label
+#   page-name: vj-abigo/invite-on-label
